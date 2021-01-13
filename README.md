@@ -1,5 +1,5 @@
 # Human-Movement-Prediction
-Human Movement Prediction from Time Series Data
+## Human Movement Prediction from Time Series Data
 
 Classification of human activity (downstairs=1, jogging=2, sit-
 ting=3, standing=4, upstairs=5, walking=6) from movement signals measured with three
